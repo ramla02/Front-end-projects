@@ -8,3 +8,6 @@ i will be updating the process
 
   preveiw
 ![day 1](day1.png)
+
+## Day 2
+I draft my first, simple and  basic portfolio in a piece of paper
