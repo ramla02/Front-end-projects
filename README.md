@@ -6,8 +6,7 @@ i will be updating the process
 
 ## Day 1
 
-  preveiw
-![day 1](day1.png)
+Did basic structure of HTML only
 
 ## Day 2
 
