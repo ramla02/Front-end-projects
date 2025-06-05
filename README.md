@@ -10,4 +10,10 @@ i will be updating the process
 ![day 1](day1.png)
 
 ## Day 2
+
 I draft my first, simple and  basic portfolio in a piece of paper
+
+## Day 3 and 4
+
+I tried to actaulize the paper that i drafted without css, turns out i need css
+without it, it won't work. I realise that after two of suffering😒😂😂
